@@ -1,0 +1,18 @@
+{
+  "name": "generate-emojios-by-group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Pinheiro",
+  "license": "ISC",
+  "dependencies": {
+    "await-exec": "^0.1.2",
+    "canvas": "^2.3.1",
+    "lodash.set": "^4.3.2",
+    "react-emojione": "^5.0.1"
+  }
+}
