@@ -12531,199 +12531,199 @@ export default  {
   }
  },
  "regional": {
-  ":regional_indicator_z:": {
+  ":regional_indicator_a:": {
    "x": 16,
    "y": 16,
    "row": 0,
    "col": 0,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_y:": {
-   "x": 64,
-   "y": 16,
-   "row": 0,
-   "col": 1,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_x:": {
-   "x": 112,
-   "y": 16,
-   "row": 0,
-   "col": 2,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_w:": {
-   "x": 160,
-   "y": 16,
-   "row": 0,
-   "col": 3,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_v:": {
-   "x": 208,
-   "y": 16,
-   "row": 0,
-   "col": 4,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_u:": {
-   "x": 256,
-   "y": 16,
-   "row": 0,
-   "col": 5,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_t:": {
-   "x": 16,
-   "y": 64,
-   "row": 1,
-   "col": 0,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_s:": {
-   "x": 64,
-   "y": 64,
-   "row": 1,
-   "col": 1,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_r:": {
-   "x": 112,
-   "y": 64,
-   "row": 1,
-   "col": 2,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_q:": {
-   "x": 160,
-   "y": 64,
-   "row": 1,
-   "col": 3,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_p:": {
-   "x": 208,
-   "y": 64,
-   "row": 1,
-   "col": 4,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_o:": {
-   "x": 256,
-   "y": 64,
-   "row": 1,
-   "col": 5,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_n:": {
-   "x": 16,
-   "y": 112,
-   "row": 2,
-   "col": 0,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_m:": {
-   "x": 64,
-   "y": 112,
-   "row": 2,
-   "col": 1,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_l:": {
-   "x": 112,
-   "y": 112,
-   "row": 2,
-   "col": 2,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_k:": {
-   "x": 160,
-   "y": 112,
-   "row": 2,
-   "col": 3,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_j:": {
-   "x": 208,
-   "y": 112,
-   "row": 2,
-   "col": 4,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_i:": {
-   "x": 256,
-   "y": 112,
-   "row": 2,
-   "col": 5,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_h:": {
-   "x": 16,
-   "y": 160,
-   "row": 3,
-   "col": 0,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_g:": {
-   "x": 64,
-   "y": 160,
-   "row": 3,
-   "col": 1,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_f:": {
-   "x": 112,
-   "y": 160,
-   "row": 3,
-   "col": 2,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_e:": {
-   "x": 160,
-   "y": 160,
-   "row": 3,
-   "col": 3,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_d:": {
-   "x": 208,
-   "y": 160,
-   "row": 3,
-   "col": 4,
-   "size": 32,
-   "padding": 16
-  },
-  ":regional_indicator_c:": {
-   "x": 256,
-   "y": 160,
-   "row": 3,
-   "col": 5,
    "size": 32,
    "padding": 16
   },
   ":regional_indicator_b:": {
+   "x": 64,
+   "y": 16,
+   "row": 0,
+   "col": 1,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_c:": {
+   "x": 112,
+   "y": 16,
+   "row": 0,
+   "col": 2,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_d:": {
+   "x": 160,
+   "y": 16,
+   "row": 0,
+   "col": 3,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_e:": {
+   "x": 208,
+   "y": 16,
+   "row": 0,
+   "col": 4,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_f:": {
+   "x": 256,
+   "y": 16,
+   "row": 0,
+   "col": 5,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_g:": {
+   "x": 16,
+   "y": 64,
+   "row": 1,
+   "col": 0,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_h:": {
+   "x": 64,
+   "y": 64,
+   "row": 1,
+   "col": 1,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_i:": {
+   "x": 112,
+   "y": 64,
+   "row": 1,
+   "col": 2,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_j:": {
+   "x": 160,
+   "y": 64,
+   "row": 1,
+   "col": 3,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_k:": {
+   "x": 208,
+   "y": 64,
+   "row": 1,
+   "col": 4,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_l:": {
+   "x": 256,
+   "y": 64,
+   "row": 1,
+   "col": 5,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_m:": {
+   "x": 16,
+   "y": 112,
+   "row": 2,
+   "col": 0,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_n:": {
+   "x": 64,
+   "y": 112,
+   "row": 2,
+   "col": 1,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_o:": {
+   "x": 112,
+   "y": 112,
+   "row": 2,
+   "col": 2,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_p:": {
+   "x": 160,
+   "y": 112,
+   "row": 2,
+   "col": 3,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_q:": {
+   "x": 208,
+   "y": 112,
+   "row": 2,
+   "col": 4,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_r:": {
+   "x": 256,
+   "y": 112,
+   "row": 2,
+   "col": 5,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_s:": {
+   "x": 16,
+   "y": 160,
+   "row": 3,
+   "col": 0,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_t:": {
+   "x": 64,
+   "y": 160,
+   "row": 3,
+   "col": 1,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_u:": {
+   "x": 112,
+   "y": 160,
+   "row": 3,
+   "col": 2,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_v:": {
+   "x": 160,
+   "y": 160,
+   "row": 3,
+   "col": 3,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_w:": {
+   "x": 208,
+   "y": 160,
+   "row": 3,
+   "col": 4,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_x:": {
+   "x": 256,
+   "y": 160,
+   "row": 3,
+   "col": 5,
+   "size": 32,
+   "padding": 16
+  },
+  ":regional_indicator_y:": {
    "x": 16,
    "y": 208,
    "row": 4,
@@ -12731,7 +12731,7 @@ export default  {
    "size": 32,
    "padding": 16
   },
-  ":regional_indicator_a:": {
+  ":regional_indicator_z:": {
    "x": 64,
    "y": 208,
    "row": 4,

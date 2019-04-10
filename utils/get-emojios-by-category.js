@@ -31,7 +31,11 @@ const getEmojiosByCategory = (notAllowed=[]) => {
         const mainName = name.replace(/_tone\d/, "");
         _set(byGroup[key], `${mainName}.tones.${name}`, obj);
       } else {
-        byGroup[key].push(obj);
+        if ( key == 'regional' ) { //hack to reverse order
+          byGroup[key].unshift(obj);
+        }else {
+          byGroup[key].push(obj);
+        }
       }
     });
   });
